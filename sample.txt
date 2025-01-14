@@ -1,3 +1,5 @@
 Anyone can learn Git with this tutorial
 
 add: Register a change in an index
+
+pull: Obtain the content of the remote repository
